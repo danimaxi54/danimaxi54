@@ -16,7 +16,7 @@ Lead Front-end developer, here is in my git profile is many of my projects you c
 ![SCSS](https://img.shields.io/badge/-SCSS-red?style=flat-square&logo=sass&logoColor=white)
 ![styled-components](https://img.shields.io/badge/-Styled-brown?style=flat-square&logo=styled-components&logoColor=white)
 
-There are no common libraries (such as hook-forms or antd) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
+There are no common libraries (such as hook-forms or mui) in the list, because I don't see the need to overload with the same things that everyone already knows. But of course, I have worked with many tools and see no problem learning a new one if the project requires it.
 
 <!-- ### :chart_with_upwards_trend: Stats -->
 
