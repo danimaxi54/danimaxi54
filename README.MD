@@ -1,6 +1,6 @@
 ## Hello, I am Daniil 👋
 
-Lead Front-end developer, in my git profile is many of my projects you can see.
+Lead Front-end developer, here is in my git profile is many of my projects you can see.
 
 [![Instagram Badge](https://img.shields.io/badge/-danimaxi54-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/danimaxi54/)](https://instagram.com/danimaxi54)
 [![Telegram Badge](https://img.shields.io/badge/-forwarded54(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/forwarded54/)](https://t.me/forwarded54)
@@ -24,7 +24,7 @@ There are no common libraries (such as hook-forms or antd) in the list, because 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=danimaxi54.danimaxi54) -->
 
 > "How would I describe myself?\
-> Impossible, but let me try. We should not be smarter than others, we should be more disciplined than others. My motivation is - motivation of forwarded going."\
+> Impossible, but let me try. We should not be smarter than others, we should be more disciplined than others. My motivation is - motivation of forwarded going."
 
 > "How to not feel shame on these below pinned repositiories, but lot time ago I was proud of them?"\
 > "Would be cool if I can share code from commercial projects..."
