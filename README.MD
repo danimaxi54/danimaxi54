@@ -3,7 +3,7 @@
 Lead Front-end developer, here is in my git profile is many of my projects you can see.
 
 [![Telegram Badge](https://img.shields.io/badge/-danimaxi54(best_choice)-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/danimaxi54/)](https://t.me/danimaxi54)
-[![Gmail Badge](https://img.shields.io/badge/-idanil11@mail.ru-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ddmaxie12@mail.ru)](mailto:ddmaxie12@mail.ru)
+[![Gmail Badge](https://img.shields.io/badge/-idanil11@mail.ru-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:idanil11@mail.ru)](mailto:ddmaxie12@mail.ru)
 
 ### ⚡ Actual stack
 
